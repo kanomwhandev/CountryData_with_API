@@ -49,4 +49,4 @@ Clean interface with accurate population approximations and formatted data displ
 
 ![image](https://github.com/user-attachments/assets/d41f3a59-a35e-4e37-b18b-ea8656fecdb6)
 ![image](https://github.com/user-attachments/assets/b308de8e-1d64-45e2-880e-01566a9f8889)
-![image](https://github.com/user-attachments/assets/7749150a-d0af-4b68-a922-36cd200a9671)
+[![image](https://github.com/user-attachments/assets/7749150a-d0af-4b68-a922-36cd200a9671)](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
